@@ -26,7 +26,7 @@ class HomeAppBar extends StatelessWidget implements PreferredSizeWidget {
     }
 
     return AppBar(
-      title: Text("Beranda"),
+      title: Text("HomePage"),
       actions: [
         Padding(
           padding: const EdgeInsets.only(right: 8.0),
