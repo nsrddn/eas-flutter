@@ -49,7 +49,7 @@ class _SignupState extends State<Signup> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              "Register",
+              "Daftar",
               style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 40),

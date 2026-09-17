@@ -56,7 +56,7 @@ class _SigninState extends State<Signin> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                "Login",
+                "Masuk",
                 style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold),
               ),
               SizedBox(height: 40),
